@@ -1,4 +1,4 @@
-S# Design Document
+# Design Document
 
 By Manish Chepuri
 
