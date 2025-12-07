@@ -1,8 +1,8 @@
-# Design Document
+S# Design Document
 
 By Manish Chepuri
 
-Video overview: <https://youtu.be/PwAPYazaz24>
+Short video overview: <https://youtu.be/PwAPYazaz24>
 
 ## Scope
 
