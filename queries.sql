@@ -5,7 +5,7 @@ SELECT COUNT(*) as "total_followers" FROM "artist_followers"
 WHERE "artist_id" = (
     SELECT "id" FROM "artists"
     WHERE "name" = 'Drake'
-); jfjfj
+);
 
 -- Gets the playlists of a user
 SELECT "name" FROM "playlists"
